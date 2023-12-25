@@ -1,4 +1,4 @@
-This track created using the library and tool https://earsketch.gatech.edu/ <br/>
+This is a six-line track created in Python using the Earsketch library https://earsketch.gatech.edu/ <br/>
 To the saved track were added an additional effect in another software. <br/>
 <br/>
 This track you can listen here:
