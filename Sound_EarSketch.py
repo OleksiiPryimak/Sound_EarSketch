@@ -5,7 +5,6 @@
 from earsketch import *
 
 setTempo(100)
-PIANO_2 = YG_GOSPEL_PIANO_1
 START_END = -60 
 
 
